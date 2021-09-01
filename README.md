@@ -1,16 +1,24 @@
-### Hi there 👋
+### Olá! Sou Daniel 
 
-<!--
-**Daniel-R23/daniel-r23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Estudando Front-End
+- 🤔 Em busca da primeira vaga oficialmente na área
+- 📫 Caso queira entrar em contato: danielima1023@gmail.com
+<div>
+  <img height:"180em" src="https://github-readme-stats.vercel.app/api?username=daniel-r23&show_icons=true&theme=tokyonight&include_all_commits=true&count_private_=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-r23&layout=compact&langs_count=16&theme=tokyonight"/>
+</div>
 
-Here are some ideas to get you started:
+<div>
+ <img align="center" height:"30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg"/>
+ <img align="center" height:"30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg"/>
+ <img align="center" height:"30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##
+
+<div>
+  <a href="mailto:danielima1023@gmail.com"><img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/dan-23/"><img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</div>
+
+ ![Snake animation](https://github.com/daniel-r23/daniel-r23/blob/output/github-contribution-grid-snake.svg)
