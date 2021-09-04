@@ -5,8 +5,8 @@
 - 📫 Caso queira entrar em contato: danielima1023@gmail.com
 
 <div>
-  <img height:"150em" src="https://github-readme-stats.vercel.app/api?username=daniel-r23&show_icons=true&theme=tokyonight&include_all_commits=true&count_private_=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-r23&layout=compact&langs_count=16&theme=tokyonight"/>
+  <img height:"150em" width="50%" src="https://github-readme-stats.vercel.app/api?username=daniel-r23&show_icons=true&theme=tokyonight&include_all_commits=true&count_private_=true"/>
+  <img height="150em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-r23&layout=compact&langs_count=16&theme=tokyonight"/>
 </div>
 <br><br>
 <div>
