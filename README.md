@@ -1,4 +1,4 @@
-## Olá! Tudo bem? Sou Daniel 🙂
+## Olá. Tudo bem? Sou Daniel!
 Atualmente estou estudando programação com foco em Front-end. Espero bastante desenvolver minhas habilidades através dessa jornada de aprendizado e experiências e estarei publicando aqui os projetos que usarei para meu aprendizado.
 <div>
   <a href="https://github.com/Daniel-R23"/>
