@@ -1,5 +1,5 @@
 ## Olá. Tudo bem? Sou Daniel!
-Atualmente estou estudando programação com foco em Java. Espero bastante desenvolver minhas habilidades através dessa jornada de aprendizado e experiências e estarei publicando aqui os projetos que usarei para meu aprendizado.
+Atualmente estou estudando Engenharia de Software. Espero bastante desenvolver minhas habilidades através dessa jornada de aprendizado e experiências e estarei publicando aqui os projetos que usarei para meu aprendizado.
 <div>
   <a href="https://github.com/Daniel-R23"/>
   <img src="https://github-readme-stats.vercel.app/api?username=daniel-r23&show_icons=true&theme=tokyonight&include_all_commits=true&count_private_=true"/>
@@ -11,6 +11,8 @@ Atualmente estou estudando programação com foco em Java. Espero bastante desen
  <img align="center" height:"30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg"/>
  <img align="center" height:"30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg"/>
  <img align="center" height:"30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg"/>
+ <img align="center" height:"30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"/>
+ <img align="center" height:"30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"/>
 </div>
 
 ##
