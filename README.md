@@ -2,8 +2,6 @@
 Atualmente estou estudando Engenharia de Software. Espero bastante desenvolver minhas habilidades através dessa jornada de aprendizado e experiências e estarei publicando aqui os projetos que usarei para meu aprendizado.
 <div>
   <a href="https://github.com/Daniel-R23"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=daniel-r23&show_icons=true&theme=tokyonight&include_all_commits=true&count_private_=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-r23&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
 
 <div style="display:inline-block"><br>
